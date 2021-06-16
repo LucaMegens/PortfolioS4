@@ -181,8 +181,8 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    height: 90%;
-    width: 30%;
+    height: 671px;
+    width: 470px;
     color: white;
     background: #000000e0;
     margin: -9vw;
@@ -229,8 +229,8 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    height: 80%;
-    width: 30%;
+    height: 671px;
+    width: 469px;
     color: white;
     background: #000000e0;
     margin: -9vw;
@@ -276,8 +276,8 @@ header{
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    height: 80%;
-    width: 30%;
+    height: 671px;
+    width: 469px;
     color: white;
     background: #000000e0;
     margin: -9vw;
