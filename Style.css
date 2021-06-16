@@ -201,11 +201,14 @@ header{
     margin-bottom: 0%;
     font-size: 1.2em;
 }
-.SoloProject video{
+.SoloProject a{
     width: 50%;
     transition: 0.3s;
 }
-.SoloProject video:hover{
+.SoloProject video{
+    width: 100%;
+}
+.SoloProject a:hover{
     width: 55%;
     transition: 0.3s;
 }
@@ -246,15 +249,17 @@ header{
     margin-bottom: 0%;
     font-size: 1.2em;
 }
-.DuoProject video{
+.DuoProject a{
     width: 35%;
     transition: 0.3s;
 }
-.DuoProject video:hover{
+.DuoProject video{
+    width: 100%;
+}
+.DuoProject a:hover{
     width: 40%;
     transition: 0.3s;
 }
-
 /* --- GROUPPROJECT --- */
 .GroupProject{
     position: relative;
@@ -291,11 +296,15 @@ header{
     margin-bottom: 0%;
     font-size: 1.2em;
 }
-.GroupProject img{
+.GroupProject a{
     width: 40%;
     transition: 0.3s;
 }
-.GroupProject img:hover{
+.GroupProject img{
+    width: 100%;
+    transition: 0.3s;
+}
+.GroupProject a:hover{
     width: 45%;
     transition: 0.3s;
 }
