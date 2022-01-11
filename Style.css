@@ -30,7 +30,7 @@ body{
     overflow-x: hidden;
 }
 .background{
-    background-image: url(Images/background\ portfolio2.0.jpg);
+    background-image: url(images/background\ portfolio2.0.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     --z-index: 0;

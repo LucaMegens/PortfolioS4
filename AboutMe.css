@@ -5,7 +5,7 @@
 body{
     height: 100vh;
     width: 100vw;
-    background-image: url(Images/background\ portfolio2.0.jpg);
+    background-image: url(images/background\ portfolio2.0.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -13,7 +13,7 @@ body{
 .Nav-Container{
     flex-direction: column;
     position: fixed;
-    background-image: url(Images/background\ portfolio2.0.blur.jpg);
+    background-image: url(images/background\ portfolio2.0.blur.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
